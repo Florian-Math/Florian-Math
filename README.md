@@ -1,20 +1,16 @@
 <h1 align="center">Hello there 👋 - I'm Florian 🐧</h1>
 
 <p align="left"> 
-  <img  src="https://komarev.com/ghpvc/?username=florian-math&label=Profile%20views&color=dd6387&style=flat-square" alt="florian-math" height="28"/>
   <a href="https://twitter.com/just_apenguin" target="blank"><img src="https://img.shields.io/twitter/follow/just_apenguin?logo=twitter&style=flat-square&logoColor=white&color=dd6387" alt="just_apenguin" height="28" /></a>
 </p>
 
-<h3 align="left">🎓 I'm a French Student at FST Nancy</h3>
-<h3 align="left">🎮 I’m currently working on my game called Thrown in the dungeon</h3> 
+<h3 align="left">🎓 I'm a French Student at Gaming Campus</h3>
+<h3 align="left">🎮 I make games</h3> 
 
 <hr/>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=florian-math&show_icons=true&theme=dracula&locale=en&hide=stars" alt="florian-math" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=florian-math&show_icons=true&locale=en&layout=compact&theme=dracula" alt="florian-math" />
 </p>
 
 <hr/>
