@@ -1,9 +1,5 @@
 <h1 align="center">Hello there 👋 - I'm Florian 🐧</h1>
 
-<p align="left"> 
-  <a href="https://twitter.com/just_apenguin" target="blank"><img src="https://img.shields.io/twitter/follow/just_apenguin?logo=twitter&style=flat-square&logoColor=white&color=dd6387" alt="just_apenguin" height="28" /></a>
-</p>
-
 <h3 align="left">🎓 I'm a French Student at Gaming Campus</h3>
 <h3 align="left">🎮 I make games</h3> 
 
@@ -27,11 +23,6 @@
 <p align="left">
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Things I'm currently learning:</h3>
-<p align="left">
-    <a href="https://www.glfw.org" target="_blank" rel="noreferrer"> <img src="https://www.glfw.org/img/favicon/favicon-196x196.png" alt="glfw" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Web stuff:</h3>
